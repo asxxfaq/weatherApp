@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import SearchBar from './components/SearchBar';
-import WeatherDisplay from './components/WeatherDisplay';
+import WeatherDisplay from './Components/WeatherDisplay';
 import './App.css'; 
 
 
