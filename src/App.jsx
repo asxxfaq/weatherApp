@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
-import SearchBar from '../src/Components/SearchBar';
-import WeatherDisplay from '../src/Components/WeatherDisplay';
 import './App.css'; 
+import WeatherDisplay from './Components/WeatherDisplay';
+import SearchBar from './Components/SearchBar';
 
 
 const API_KEY = '0554bcd3392c4fa1a10133314251811'; 
